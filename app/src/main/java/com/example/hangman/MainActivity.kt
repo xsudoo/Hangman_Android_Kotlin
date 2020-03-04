@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         val startGame = Intent(this, Game::class.java)
         //dodwanie w developie
+        //dodane w ft3
 
         startActivity(startGame)
     }
