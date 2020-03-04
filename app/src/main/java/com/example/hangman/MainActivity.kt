@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val startGame = Intent(this, Game::class.java)
+        //dodwanie w developie
 
         startActivity(startGame)
     }
