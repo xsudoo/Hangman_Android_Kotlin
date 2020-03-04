@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         //dodwanie w developie
         //dodane w ft3
         //dodane w dewelopie
-
+        //ft4
         startActivity(startGame)
     }
 }
